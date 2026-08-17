@@ -18,10 +18,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - YouTube 403 自动重试，并在第三次尝试时自动切换 IPv4
 - 支持 YouTube、Instagram 的 MP4 与 MP3 下载
 ]]></description>
-            <enclosure url="https://github.com/chiuteyen/MediaPocket-Releases/releases/download/updates/%E7%A7%81%E4%BA%AB%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8-1.1.0.dmg" length="42759776" type="application/octet-stream" sparkle:edSignature="2NiIT5lbeS8W3KQAP5FR1HlNBu8P4KOYc42HD3SIV/8PmeU63hz6gLXTuy6qTI87PvxIeRr28oDo5lceAYX6Ag=="></enclosure>
+            <enclosure url="https://github.com/chiuteyen/MediaPocket-Releases/releases/download/updates/MediaPocket-1.1.0.dmg" length="42759776" type="application/octet-stream" sparkle:edSignature="2NiIT5lbeS8W3KQAP5FR1HlNBu8P4KOYc42HD3SIV/8PmeU63hz6gLXTuy6qTI87PvxIeRr28oDo5lceAYX6Ag=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MbRChROrd+bPngsSwVdyfqqMsal+JtjMvU72k3cOEY+jPaXYFlIWlhnWqB4Wnex6VADZBqjdr6CZKIDSHHQCBg==
-length: 1638
+edSignature: 2prFKAGZ5ooos9gITefppTslnkgfkcpHHQREUuz0EZq4GRKhSD92gjSTQqF7yIzcWOEEgr1wHgnmV77afdA7Dw==
+length: 1586
 -->
