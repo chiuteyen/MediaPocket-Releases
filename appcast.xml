@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>私享视频下载器</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 17 Aug 2026 17:45:57 +0800</pubDate>
+            <link>https://github.com/chiuteyen/MediaPocket-Releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# 私享视频下载器 1.1.0
+
+- 首个 Developer ID 正式签名与 Apple 公证版本
+- 加入 Sparkle 2 自动检查、下载、签名校验和安装更新
+- YouTube 403 自动重试，并在第三次尝试时自动切换 IPv4
+- 支持 YouTube、Instagram 的 MP4 与 MP3 下载
+]]></description>
+            <enclosure url="https://github.com/chiuteyen/MediaPocket-Releases/releases/download/updates/%E7%A7%81%E4%BA%AB%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8-1.1.0.dmg" length="42759776" type="application/octet-stream" sparkle:edSignature="2NiIT5lbeS8W3KQAP5FR1HlNBu8P4KOYc42HD3SIV/8PmeU63hz6gLXTuy6qTI87PvxIeRr28oDo5lceAYX6Ag=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: MbRChROrd+bPngsSwVdyfqqMsal+JtjMvU72k3cOEY+jPaXYFlIWlhnWqB4Wnex6VADZBqjdr6CZKIDSHHQCBg==
+length: 1638
+-->
