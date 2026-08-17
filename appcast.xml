@@ -5,9 +5,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>私享视频下载器</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Mon, 17 Aug 2026 17:55:16 +0800</pubDate>
+            <pubDate>Mon, 17 Aug 2026 23:57:12 +0800</pubDate>
             <link>https://github.com/chiuteyen/MediaPocket-Releases</link>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -18,10 +18,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - YouTube 403 自动重试，并在第三次尝试时自动切换 IPv4
 - 支持 YouTube、Instagram 的 MP4 与 MP3 下载
 ]]></description>
-            <enclosure url="https://github.com/chiuteyen/MediaPocket-Releases/releases/download/updates/MediaPocket-1.1.0.dmg" length="42760136" type="application/octet-stream" sparkle:edSignature="d6vW0/IkhVspGQ5LNKOyP113iPTdPsEDtQbQkm7bnzKBvaUcxQCkEhj215G8nDCFo74ya62k+nzdpRnaXxxNAg=="></enclosure>
+            <enclosure url="https://github.com/chiuteyen/MediaPocket-Releases/releases/download/updates/MediaPocket-1.1.0.dmg" length="42759780" type="application/octet-stream" sparkle:edSignature="W+yJ4emxbi8QEdDThrIaA+fPXDXob1aLb7h72MDHOmMlPu4zyEyWZvE6OBZJuSMUsOSCoabdv2XUFOf8xQAMDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Bvvf79gH2CvpEByN8y7MwekhlHiUosXfnMRzJwXHBqbEjdaVfHp2zyKH1VbJyqxn9nIwNMNCBjqs5U85OeRSDQ==
+edSignature: 10GY+ajlWNFFydHA1H1Y66SOg6kqaahW3wZEo0ea1dbwBgi4Cv0ytOl9i7KXyg42vXJeAvnL4nOpzaVmIcqVBA==
 length: 1586
 -->
